@@ -1,0 +1,57 @@
+Timestamp:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup1"
+
+    timestampfield: "timestampfield1"
+
+ 
+
+Timestamp2:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup2"
+
+    timestampfield: "timestampfield2"
+
+ 
+
+Timestamp3:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup3"
+
+    timestampfield: "timestampfield3"
+
+ 
+
+Timestamp4:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup4"
+
+    timestampfield: "timestampfield4"
+
+ 
+
+Timestamp5:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup5"
+
+    timestampfield: "timestampfield5"
+
+ 
+
+Timestamp6:
+
+  platformexpirytime:
+
+    collectiongroup: "collectiongroup6"
+
+    timestampfield: "timestampfield6"
